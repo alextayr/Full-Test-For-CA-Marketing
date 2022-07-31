@@ -17,6 +17,6 @@ Allure <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" widt
  💼 Any freelance work? **Feel free to contact <a href="mailto:dogjump7@gmail.com">me</a>**  
 💬 Ask me about anything, I am happy to help!
 <!---
-svetlana-lagodina/svetlana-lagodina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+alex-taylor/alex-taylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
